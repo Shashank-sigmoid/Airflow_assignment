@@ -1,0 +1,11 @@
+State,Description,Temperature,Temperature feels like,Min temperature,Max temperature,Humidity,Clouds
+Rajasthan,scattered clouds,301.67,300.18,301.67,301.67,16,36
+Karnataka,light rain,298.16,297.55,298.16,298.16,32,100
+Kerala,few clouds,299.97,303.28,299.97,299.97,89,17
+Assam,clear sky,296.51,295.63,296.51,296.51,28,1
+Punjab,clear sky,300.65,299.81,300.65,300.65,28,2
+Goa,broken clouds,301.36,307.01,301.36,301.36,87,79
+Gujarat,clear sky,302.84,301.24,302.84,302.84,23,9
+Maharashtra,clear sky,303.02,301.2,303.02,303.02,16,10
+State of Sikkim,scattered clouds,264.17,257.17,264.17,264.17,54,47
+West Bengal,clear sky,298.41,298.19,298.41,298.41,46,2
